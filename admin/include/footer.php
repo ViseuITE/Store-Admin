@@ -8,11 +8,11 @@
     </div>
 </footer>
 
-<script src="../asset/js/jquery-3.3.1.min.js"></script>
-<script src="../asset/js/moment.min.js"></script>
-<script src="../asset/js/Chart.min.js"></script>
-<script src="../asset/js/bootstrap.min.js"></script>
-<script src="../asset/js/tooplate-scripts.js"></script>
+<script src="../admin/asset/js/jquery-3.3.1.min.js"></script>
+<script src="../admin/asset/js/moment.min.js"></script>
+<script src="../admin/asset/js/Chart.min.js"></script>
+<script src="../admin/asset/js/bootstrap.min.js"></script>
+<script src="../admin/asset/js/tooplate-scripts.js"></script>
 <script>
     Chart.defaults.global.defaultFontColor = 'white';
     let ctxLine,
